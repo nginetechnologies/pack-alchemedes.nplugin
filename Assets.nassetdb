@@ -1,4 +1,23 @@
 {
+    "01fdd641-dee6-29ca-16bb-ec74efccae5a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Floor Rocks Large.mesh.nasset/Cell Floor Rocks Large Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "02153f32-3d58-8d22-68dd-95b4b8ea4923": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Door Iron Right.mesh.nasset/Door Iron Right.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "02a52545-5f34-d385-ec38-e9684e1dbc56": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -9,6 +28,13 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "02bf96dd-ce40-fd49-9a1e-ce760bd64589": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chandelier Triple.mesh.nasset/Chandelier Triple.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "02c62c65-4189-2724-d030-7fdac7460c26": {
@@ -24,6 +50,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "047b80ea-e652-dc9d-e248-3043fc3489a5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Coat Hook Full.mesh.nasset/Coat Hook Full Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "05b421df-9cac-bb38-ace9-2cdafcb5a096": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -36,6 +74,44 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0ab95319-6a22-9616-c56b-5979fcbb5200": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stone Column.mesh.nasset/Stone Column Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0b0c44cb-b51f-ca6d-b5a0-3dd4465a1ba1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Beaker Empty.mesh.nasset/Beaker Empty Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0b27bf17-32d1-a767-a87c-ea47a2adb130": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Green Large.mesh.nasset/Book Green Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0b503797-6786-2c92-4b90-0f7268a5328e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Flask.mesh.nasset/Flask.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "0b7521e0-0cf2-8e06-b882-b38ef7731764": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -45,6 +121,18 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0c09465b-dacb-4b20-b76d-bdd7524cd76f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Jar Large.mesh.nasset/Jar Large Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -97,6 +185,49 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "104e53a7-8826-5e3b-c1f7-34c17fb5d7ef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Table.mesh.nasset/Table.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "10f5f1f5-153b-70c3-ce8a-caf585c35f93": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Coat Hook.mesh.nasset/Coat Hook Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "132af825-519c-d0dd-9d53-e322d1dc1643": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Flask.mesh.nasset/Flask Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "137d815b-c6df-35a8-4c45-5e378e805e30": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Prison Bars Broken.mesh.nasset/Prison Bars Broken Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "142c591c-a477-15b4-578a-ea11c563ca03": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -109,6 +240,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "145b8116-5c7d-3616-5c47-a044f0478529": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Beaker Empty.mesh.nasset/Beaker Empty.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "15be02cd-198e-dc67-dfe6-840e8e734b5d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -118,6 +256,18 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "16e214c3-41fa-75a6-d105-ac6f2d64bd3a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Bookshelf.mesh.nasset/Bookshelf Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -158,6 +308,44 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1ae73437-cde6-58b0-da54-f254e5b56110": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Brown Small.mesh.nasset/Book Brown Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1ba7ed8f-fc00-f53b-01b7-dbf356dbe402": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Trim Wood.mesh.nasset/Trim Wood Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1c37ea7a-3bcf-5e55-5b65-e03b5630be97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Key Golden.mesh.nasset/Key Golden.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1c987def-99dd-6f30-f860-317c0e972cb3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Jar Full.mesh.nasset/Jar Full Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "1dbe4e40-f6ca-175c-7f5d-da2e1ec64c55": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -184,6 +372,44 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1f54db01-dfa4-1628-9530-f4bc707f9028": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Scroll Small.mesh.nasset/Scroll Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1fcb7e79-8a96-5d6b-c276-70f4087ec7bf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Jar Empty.mesh.nasset/Jar Empty Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "20ceb989-f219-2177-a4d4-3f7fe8b3a121": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall 3.mesh.nasset/Wall 3 Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "210197ca-82fa-866d-17e2-dfcea2099a97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Door Wooden Round Left.mesh.nasset/Door Wooden Round Left.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "21293226-590c-29ad-5fff-dec43e296895": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -193,6 +419,18 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "21c27079-e18a-f979-66db-98e857adf61c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Plate.mesh.nasset/Plate Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -208,6 +446,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "23890d68-2cdf-6377-9e28-0bbe7c70d196": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Red Small.mesh.nasset/Book Red Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "23ed76c6-8693-b0d2-09ce-50ed5fbe786c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -219,6 +464,13 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "6c5b832e-1bc6-efe5-cc6f-1f359f00e943",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "25012db0-9e38-ce67-6110-54eaa6de38c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Crystal Ball.mesh.nasset/Crystal Ball.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "2540a91c-30ae-b233-e123-0790dc1d6711": {
@@ -296,9 +548,36 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "29a0f76b-24a7-5105-59e2-ecfd93eeab8f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Amphora Stand.mesh.nasset/Amphora Stand Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "29f3010c-aa34-c3c3-e0cc-afe47fbabb2f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/textures/T_dungeonAtlas_D.tex.nasset"
+    },
+    "2b739972-4763-b69d-76b7-2cdad2ceda10": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Dungeon Atlas.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "c98f8989-71d7-6ac6-5924-dbf1045c1c4a"
+        ]
+    },
+    "2d5d5b6e-2faa-3bab-312f-19f742aefca6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Scroll Elder.mesh.nasset/Scroll Elder.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "2d65e58d-a329-e763-c7cf-b022341948b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -351,6 +630,39 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "34c1fe13-a78b-9bdb-388d-0749c05c9ad4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Scroll Small.mesh.nasset/Scroll Small Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "34d05415-ca2f-9cc6-92ed-3c83e278322a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Bucket.mesh.nasset/Bucket.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "34e8e3bd-183f-d9dd-5e2b-6e664742655f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Desk.mesh.nasset/Desk.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "34ff5ec1-a005-a092-0934-e01e522352f4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Bone.mesh.nasset/Bone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "356c80b7-93bf-cdf5-5424-9cf59014b57e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -360,6 +672,30 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "356fa52f-54f1-a6de-636f-026fac7638b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Walls Stone 1.mesh.nasset/Cell Walls Stone 1 Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "37f490ff-0786-a9c9-3d59-b5111d8050bd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Floor Rocks Small.mesh.nasset/Cell Floor Rocks Small Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -373,6 +709,18 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "10297924-3d50-0db5-e102-913ca4321553",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "39babdd5-3c78-1344-0fed-a7b1763ef7aa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall 1.mesh.nasset/Wall 1 Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -425,6 +773,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3bba260b-d389-9f52-c07d-60ddec48411b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stone Column.mesh.nasset/Stone Column.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "3d22c0b4-cfbd-6c8c-a4c6-7e76aa1a8a55": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -438,6 +793,44 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3d62af12-2361-ad8d-9d26-b2f012745601": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Green Small.mesh.nasset/Book Green Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3e5e5639-2078-489f-0e4d-9d60ebf13540": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stool Square.mesh.nasset/Stool Square Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3fd65355-2f40-feb4-bdca-bd33e319d4be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall Torch.mesh.nasset/Wall Torch.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "401257cf-fa50-69fb-e3ea-7d4e19f816dc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Knife.mesh.nasset/Knife Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "4023a99b-c0b4-4520-bf1b-ccc28a0f4702": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -448,6 +841,18 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "87136180-061f-f73a-6e8d-761c88df4c40",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "419a6171-9248-8654-9d53-c1f4795c1dfe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Door Wooden Round Left.mesh.nasset/Door Wooden Round Left Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -475,6 +880,13 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "142c591c-a477-15b4-578a-ea11c563ca03",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "436b2b85-4260-24d5-2927-f8eef37bd40c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Trim Stone.mesh.nasset/Trim Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "43a1ee71-56f5-c763-778e-7172c26e247b": {
@@ -527,6 +939,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4588577b-20ac-92c2-e9c1-96f21bc1ae38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stool Round.mesh.nasset/Stool Round.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "45916ef1-398e-48e9-edd5-0fdb6cc1748b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cauldron.mesh.nasset/Cauldron Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "45b65da2-43af-c406-c9cb-5076c420947f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -537,6 +968,13 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4651e0f1-7010-1b7d-fcd7-0efd06451ba6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Candle Holder.mesh.nasset/Candle Holder.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "46a6e6eb-6481-fc1b-1e4b-e2ab4036bc7c": {
@@ -565,9 +1003,33 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "46ed704f-6d5e-b6a3-25e8-a1b53364749f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Prison Door.mesh.nasset/Prison Door Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "4779e821-0013-626f-382f-31d039f96d84": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Alchemedes_EnviroDiffuse.tex.nasset"
+    },
+    "480401f8-a16c-eaee-9946-0b110462e311": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Fork.mesh.nasset/Fork Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "48f1989a-f7c2-31d2-8449-69bc9a1fb582": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -580,6 +1042,25 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "5dbd6ee4-648c-4a95-5330-f598f4e154c6",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "49c9290d-d0f1-5162-1ad9-65f436efb17b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Potion Green.mesh.nasset/Potion Green Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "49d4d838-7030-cf14-1404-e37fe73ebc96": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Prison Door.mesh.nasset/Prison Door.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "4a28addd-ce53-66c6-b56f-6a299da5bfb3": {
@@ -700,6 +1181,37 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4bf4e805-75dd-5fa3-edb9-01006336fa97": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Barrel Open.mesh.nasset/Barrel Open Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4d2c9ca3-48e0-6f0e-134a-b5f3ce40c945": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Brown Small.mesh.nasset/Book Brown Small Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4e5aeefa-4ccd-595e-395c-d6851f115105": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Coat Hook Full.mesh.nasset/Coat Hook Full.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "5035740a-157b-5062-924f-60dd2c3e0361": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -723,6 +1235,18 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "0b7521e0-0cf2-8e06-b882-b38ef7731764",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "50909669-55e6-510c-4bef-44b801968a8d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Floor Puddle.mesh.nasset/Cell Floor Puddle Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -750,6 +1274,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5277332c-2e8c-86e9-c100-bfa4af35d26b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Jar Large.mesh.nasset/Jar Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "54b36efa-6f0d-497f-ac72-395fba2b71a4": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
@@ -767,6 +1298,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "56ca43fa-afb6-9fb3-c9f6-96148a605a3b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chandelier Ceiling.mesh.nasset/Chandelier Ceiling.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "57eae316-fc21-2daa-d032-42772f289aac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Shelf.mesh.nasset/Shelf.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "58deb800-736d-0689-c6f7-a0194a4fd907": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -777,6 +1322,13 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "58f8cfcb-7aa4-0a64-7e50-6b3ebd17d272": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cauldron Stand.mesh.nasset/Cauldron Stand.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "59bee5bd-bb72-3117-ec27-faf2f4346cef": {
@@ -801,6 +1353,18 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "15be02cd-198e-dc67-dfe6-840e8e734b5d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5ab22a75-b03f-4730-5f78-5b0ef60f0cb1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Crystal Ball.mesh.nasset/Crystal Ball Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -879,6 +1443,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5ffea0db-3564-3b81-0299-092c6cf587bc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Floor Rocks Small.mesh.nasset/Cell Floor Rocks Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "604d9ddd-ad59-cba2-1cec-35cd8b5feeae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -890,6 +1461,41 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "bbf6e886-3258-83b6-fd62-392e676f00d8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6161ead5-195a-cc57-b727-b22bd2b68013": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Quill.mesh.nasset/Quill.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "61802a34-c96a-bcca-7ccd-15c328bb7989": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Amphora Stand.mesh.nasset/Amphora Stand.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6263847f-09a6-c6bb-6522-853fb7a6f964": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Scroll Large.mesh.nasset/Scroll Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "62e6a670-b6a7-6233-b29a-bb5d031ca3e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Fireplace.mesh.nasset/Fireplace.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "630b744f-1d1e-0d85-596b-0f4de490b5d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Potion Red.mesh.nasset/Potion Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "632f2ead-8bf4-85c3-5984-d7cab494623a": {
@@ -918,6 +1524,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "644e3ca0-96c0-90bc-8873-ce4320064351": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Potion Green.mesh.nasset/Potion Green.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "646bb348-727e-6b20-ed27-5665eea1db67": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Bucket.mesh.nasset/Bucket Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "65ce8211-cb9f-90d2-a56e-1ad415353691": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -929,6 +1554,49 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "f5d63db4-e37a-304b-1b1c-e908da60a74f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6600f7cd-8b33-d346-2418-aa792c7817f7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stone Vert Trim.mesh.nasset/Stone Vert Trim Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "67a3d421-8683-ae42-c22d-28f6a8bd5eb7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Carpet Green.mesh.nasset/Carpet Green Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6884e5f8-327f-640d-db64-bf00db06ed17": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Fireplace.mesh.nasset/Fireplace Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6ad57cdc-8813-0bae-421d-9930f723f4bf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Scroll Open.mesh.nasset/Scroll Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "6b40ed9a-ceda-f155-ff41-60271df5de88": {
@@ -960,6 +1628,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Alchemedes_Enviro.tex.nasset"
     },
+    "6cad1287-823a-85fe-f89e-97d335703702": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Coat Hook.mesh.nasset/Coat Hook.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "6d8cef7f-2ca8-0c9e-5175-b6e892e9be36": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -969,6 +1644,42 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6d956ed3-f7b5-4af8-763f-5db6aa83ac90": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Green Large.mesh.nasset/Book Green Large Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6d95f4b1-9eb5-dff9-b2c8-fcff89657807": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Inkwell.mesh.nasset/Inkwell Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6d99176f-58bc-6831-2860-d04ef67d0eca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chest Open.mesh.nasset/Chest Open Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -998,6 +1709,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6ecaf63e-f3cd-71f6-9b10-e3adb4112b2a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Amphora.mesh.nasset/Amphora.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "6f041489-f9cb-fefe-7adf-b2d6f427d468": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1011,6 +1729,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "70a2a606-9e16-de5a-424c-4f36d67944d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cauldron Full.mesh.nasset/Cauldron Full.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "70c4d2d8-ecf8-b513-1368-25af21308508": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1021,6 +1746,20 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "715b2e3d-3f59-085d-3101-3eb1066d26b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chest Closed.mesh.nasset/Chest Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "71b853f2-36c0-189b-61c5-8b8ef0cf02c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cauldron.mesh.nasset/Cauldron.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "72d4b113-0190-faf0-0d06-2fd159753d46": {
@@ -1036,6 +1775,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7681facd-a4b1-878a-540b-988e8e9c70ee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Firewood.mesh.nasset/Firewood Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "77b2ee88-93b6-2399-a71d-fba15aea2533": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1046,6 +1797,44 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "d89fd092-1650-e177-fb38-341ab0bf6ec1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "780c606a-821e-0886-dc67-917843ff8be9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Carpet Red.mesh.nasset/Carpet Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7a0d57eb-9191-4522-040b-036249aa7e85": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Prison Bars.mesh.nasset/Prison Bars.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7aea88a2-7e04-7dfb-bf0e-c281e8e479e2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Green Small.mesh.nasset/Book Green Small Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7bdf16a1-1596-69a5-6fd0-7f107f26f9f0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stool Round.mesh.nasset/Stool Round Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1074,6 +1863,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7d4bef3f-79a4-2855-9cf9-44993dcc6698": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Carpet Red.mesh.nasset/Carpet Red Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "7d6e2f8a-edbb-effe-c9a5-d3455dda9d1f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1083,6 +1884,30 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7e06040e-622c-aee2-843c-89a39d4a437c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Plate Small.mesh.nasset/Plate Small Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7f3fd468-cb52-a01f-8c23-3c18492c1f9f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Scroll Open.mesh.nasset/Scroll Open Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1112,6 +1937,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8209dc96-ed5f-c13b-0517-6f4ae4f85028": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Skull.mesh.nasset/Skull.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "82670e24-0fad-80c8-9a06-17a9315b6a57": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Ivy Branch.mesh.nasset/Ivy Branch Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "82721eed-8480-dc51-4016-83724d3ad7a7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1122,6 +1966,25 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "83c3e2b1-ec10-78cd-24f7-4d916944091e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall 2.mesh.nasset/Wall 2 Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "84c064f5-dde0-58ce-5f6a-5701a76977f6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Barrel Closed.mesh.nasset/Barrel Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "8581bdc3-f628-ced4-7d63-de58ab8186b7": {
@@ -1171,6 +2034,44 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "89f616dc-4fd4-691c-7c88-6343abce38c1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "87bb87d0-df6c-b815-0ab6-2b40a07cf882": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Bookshelf.mesh.nasset/Bookshelf.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "88a19d26-8aa9-565a-8cc7-755b5bbb34ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Ivy Branch.mesh.nasset/Ivy Branch.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "88d32e7f-851c-4702-5c65-cd6ce96a305d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Potion Red.mesh.nasset/Potion Red Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8943c6ee-1b4c-4e83-24f0-794688f3951e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Bench.mesh.nasset/Bench Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1225,6 +2126,30 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8b42bc50-0f3e-413b-dd58-1505a3750dd5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stone Floor.mesh.nasset/Stone Floor Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8b86c6ab-9195-4311-5d77-d7760eba28a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Walls Stone 2.mesh.nasset/Cell Walls Stone 2 Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "8b891a2a-9b4e-b940-32de-8ab2fee99e0f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1248,6 +2173,13 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "edd9a863-9969-db66-e295-bac915a61054",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8c69693b-ac18-f8c8-b204-da19dc016685": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Firewood Stack.mesh.nasset/Firewood Stack.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "8d62eebd-a6a0-5f7d-9425-620266d3e5bb": {
@@ -1275,6 +2207,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8ecfeda4-787f-ce0e-ccf4-69b387aae319": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chair.mesh.nasset/Chair Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "8f0fd645-40e1-0bf3-65b5-447673ac0b3c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1286,6 +2230,25 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "17bf5c21-6670-f1ca-df0c-a5f71aeac30b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9019e6e5-74cb-3474-84aa-549b2bac126d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Prison Bars.mesh.nasset/Prison Bars Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "90a28aa5-494b-305a-3ab0-f994bd8fcb29": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Trim Wood.mesh.nasset/Trim Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "912307d6-4283-f3ef-c4dd-05778efbdaca": {
@@ -1314,6 +2277,30 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "915c0aea-6e0a-dfb4-36a4-b7c77689aa46": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall Door Frame.mesh.nasset/Wall Door Frame Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "916ec08c-696e-dc17-44e8-6d5cec1c6424": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Crystal Ball Stand.mesh.nasset/Crystal Ball Stand Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "920b06e9-928b-a8cd-5bd0-a15062beb1c9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1337,6 +2324,44 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "acb80833-525a-8a64-60ba-30fb97dd181a",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "930de576-974a-03d4-82f3-2a2c12effc0e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cauldron Stand.mesh.nasset/Cauldron Stand Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "93aaee40-5ad4-1800-3f40-5cbdfd099220": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall 1.mesh.nasset/Wall 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9629b51d-860f-dbc1-c768-859be81dbc8f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Candle Holder.mesh.nasset/Candle Holder Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9641b2db-8b8f-5eb6-6843-31875a4365ab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Plate Small.mesh.nasset/Plate Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "965a46ba-dcb1-3dc5-ca76-a86817697da6": {
@@ -1363,6 +2388,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9680b5ed-ba8c-2e0e-6e21-36eec532ac6a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cauldron Empty.mesh.nasset/Cauldron Empty.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "96cbc2cd-2938-7378-ce89-8be4cbaba51f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1372,6 +2404,18 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "97e43e9c-2c21-391e-1f77-4327814e9ccc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cauldron Empty.mesh.nasset/Cauldron Empty Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1425,6 +2469,27 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9b81bcf1-57d4-e63b-9229-db65c353cfdc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Red Deep.mesh.nasset/Book Red Deep.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9c49ac91-b15c-0f5a-960b-2160dc2d1ad5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Beaker Full.mesh.nasset/Beaker Full.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9cc738ec-d224-3fde-e59e-77a902262b27": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Barrel Open.mesh.nasset/Barrel Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "9cdc91e7-5a68-fe3f-d3a3-f758d33e3f6e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1446,6 +2511,18 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9fc8f484-8a82-2093-89ed-c93110c0541f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Barrel Closed.mesh.nasset/Barrel Closed Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1479,6 +2556,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a133962c-02d0-b0c0-c30a-29eee11b01e5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Red Small.mesh.nasset/Book Red Small Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "a14da447-fdc4-bd99-6d8f-4c2de8b1704b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1489,6 +2578,13 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a21417f3-e736-5b14-df24-25336d8e3ef7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Open.mesh.nasset/Book Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "a2292bba-5b37-069e-de8c-6b193a44cfaf": {
@@ -1540,6 +2636,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a559e1d5-6fd9-659b-892f-5b8b37fe2e90": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall 2.mesh.nasset/Wall 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "a56cd31d-1173-f4f7-704d-cd7cf64a65f8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1551,6 +2654,13 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "96771851-df25-5d91-1e02-dc5d1e014d2a",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a6f56b74-b7c0-79d4-41a0-1f693abeb62f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Firewood.mesh.nasset/Firewood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "a7818864-aaa3-9cde-6758-048e5f8a471b": {
@@ -1583,6 +2693,46 @@
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Grey_Sky.mtli.nasset",
         "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
+    },
+    "a888132b-d5ea-1662-26e9-6d82777bec2e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall Wood Trim.mesh.nasset/Wall Wood Trim Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "aabceb49-60d4-f2de-9ff2-ac4f0d5dda94": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Objects/SC_Alchemedes_Lights.scene.nasset/SC_Alchemedes_Lights.scene.nasset"
+    },
+    "aad68003-ed51-3a7e-7e96-1439b98178b2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Beaker Full.mesh.nasset/Beaker Full Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ab0c2198-3f2f-7541-468f-25da722e20fb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Quill.mesh.nasset/Quill Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "ac3642ff-647b-0ab2-c311-d94a439c42c5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1671,6 +2821,37 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b223c067-a466-048f-ac0d-425bba102701": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Walls Wood Beam.mesh.nasset/Cell Walls Wood Beam Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b2f971e0-b5c3-1933-38a8-6d11b6bf3761": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cauldron Full.mesh.nasset/Cauldron Full Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b3321c73-ebe7-cd60-eba2-0bcde49a4611": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall Wood Trim.mesh.nasset/Wall Wood Trim.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "b389620b-99e4-e889-617c-599020da0c4e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1681,6 +2862,13 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b46f5792-2070-e51c-a5b2-6254bb856796": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Walls Stone 1.mesh.nasset/Cell Walls Stone 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "b5a0f362-bdf8-00f4-53ba-eb9732d14a31": {
@@ -1696,6 +2884,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b5fbc5f9-cdec-5524-b9d7-89a7c9703988": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall 3.mesh.nasset/Wall 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "b65f50bc-4ce9-1d46-c833-875e1817cfb7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1706,6 +2901,46 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b8c2de29-2893-2d6b-39d6-ca9f4c16ed13": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Plate.mesh.nasset/Plate.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b96c43ba-5a84-da83-1861-fca98268b6f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Fork.mesh.nasset/Fork.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bac1cadf-a8c9-672a-cd42-73b03c87100b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Potion Blue.mesh.nasset/Potion Blue.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bb23eb9d-d335-f481-9a34-65f747a69bdb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Shelf.mesh.nasset/Shelf Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bb742941-46ce-8509-1d3d-eebd13a00ef0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stone Vert Trim.mesh.nasset/Stone Vert Trim.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "bbf6e886-3258-83b6-fd62-392e676f00d8": {
@@ -1759,6 +2994,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bfe400af-483c-0358-a72d-8f52deb45602": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall Window.mesh.nasset/Wall Window Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c02cfaf4-bd9b-03be-7b37-60abdd37ed99": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Carpet Green.mesh.nasset/Carpet Green.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "c058152b-b1d8-c84c-31c5-1220107dfe79": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1772,6 +3026,37 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c072ccb9-806e-a460-a7d8-2cde664914f5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Firewood Stack.mesh.nasset/Firewood Stack Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c07f60fa-3490-2ed9-3326-a4a0f8f64d02": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Potion Blue.mesh.nasset/Potion Blue Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c0abb6b8-27d4-5922-b05c-4cb6f5ceea76": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Bench.mesh.nasset/Bench.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "c324c6e0-3f21-1c30-ef16-119aeab30ea2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1781,6 +3066,18 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c4e23972-d37a-8e33-20c9-1089dbfe9978": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Skull.mesh.nasset/Skull Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1821,6 +3118,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c716b140-2c68-f6bf-596d-b15447e9d67a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stool Square.mesh.nasset/Stool Square.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c88cdef3-073f-4e68-1e2a-69e0e1cf575e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Red.mesh.nasset/Book Red Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "c94ccaf5-34e1-eb2e-0d33-5d681b66de63": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1832,6 +3148,17 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "70c4d2d8-ecf8-b513-1368-25af21308508",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c98f8989-71d7-6ac6-5924-dbf1045c1c4a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_Alchemedes_Atlas_D.tex.nasset"
+    },
+    "c9ff91ca-2ee9-6a6b-7316-923085a0328f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Jar Empty.mesh.nasset/Jar Empty.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "cb1479ce-f843-88f8-af00-667aaff065ae": {
@@ -1884,6 +3211,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cccbd090-fbad-f32c-32a3-4fd2c60a4176": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall Torch.mesh.nasset/Wall Torch Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "ccdc5182-6d35-e31b-0eb4-152fc239d96a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1893,6 +3232,88 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ccf83190-6caf-f8bb-87b6-c50cdcd23c76": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Jar Full.mesh.nasset/Jar Full.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ce290a35-c401-2cf0-906b-c8e5a1be24dc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Grain Bag.mesh.nasset/Grain Bag Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ce36814e-358d-1b0c-7ad8-1f11f8596d91": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Grain Bag.mesh.nasset/Grain Bag.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ce3b41bb-a2c0-977e-a5ce-e9811c81aa8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Stone Floor.mesh.nasset/Stone Floor.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "cf804a18-62e0-1cf2-1dab-2bf9102572f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Red.mesh.nasset/Book Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d00a6cee-6b6a-304a-ae0c-9c49fcebc1ea": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/SC_Alchemedes.scene.nasset"
+    },
+    "d109bebb-498e-5768-6a2b-7a0ba15990e6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall Window.mesh.nasset/Wall Window.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d144b041-1516-b339-e337-078d7322f720": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chest Open.mesh.nasset/Chest Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d19599c5-e6ec-bfca-56a8-097667a0dc4a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chandelier Triple.mesh.nasset/Chandelier Triple Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d2b259df-fc21-9c0c-c30e-9c3cd31aed6f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Scroll Large.mesh.nasset/Scroll Large Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1922,6 +3343,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d5ba9521-342d-e12a-4dc1-9b87416d1c0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Knife.mesh.nasset/Knife.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "d6d15471-2bc2-6cc5-355b-7704ec3eebf3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1935,6 +3363,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d6e65bf9-3e9e-9184-2e35-ae61605c08c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Floor Puddle.mesh.nasset/Cell Floor Puddle.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d79d1075-f2cd-3572-66dc-905e16010747": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Scroll Elder.mesh.nasset/Scroll Elder Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "d82a7b11-f4f8-aded-8fd7-db71611fc736": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1944,6 +3391,25 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d82baf83-da92-220d-5926-52692b724800": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Crystal Ball Stand.mesh.nasset/Crystal Ball Stand.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d84241ff-c02d-6b9e-acfe-68faba09f5af": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Open.mesh.nasset/Book Open Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1996,6 +3462,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "dd104001-2c22-3f60-cd59-e4e1bca15110": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Table.mesh.nasset/Table Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "df95f5b1-74ab-25e9-1c33-aec49210f70d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2005,6 +3483,42 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e109039e-dcf5-3728-9231-0a954008f960": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Trim Stone.mesh.nasset/Trim Stone Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e1638e12-039a-066e-e9a6-bb63eb125e95": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chandelier Ceiling.mesh.nasset/Chandelier Ceiling Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e166d4ca-902a-caf2-cfa4-ca336f6263ba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Key Golden.mesh.nasset/Key Golden Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2070,6 +3584,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e6048884-7ec0-3c1f-6992-333f5b841b24": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chair.mesh.nasset/Chair.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "e6365ae4-52af-9e85-3ee3-ff40b35cfe78": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2083,6 +3604,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e791d7be-7f92-bc7b-1c6e-6a53217b0873": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Ivy Leaf.mesh.nasset/Ivy Leaf.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "e86a84be-7210-bc52-16d3-b1d5d7d0ca9c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2093,6 +3621,25 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "d8785611-5326-589a-6906-e786e30f9eb7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e8ec5b90-08fe-6857-0d40-7c7460f46725": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Floor Rocks Large.mesh.nasset/Cell Floor Rocks Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ed13bd45-52c5-7430-4d90-5e4dc5608448": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Bone.mesh.nasset/Bone Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2120,6 +3667,30 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ee3ce2d8-5b68-d904-a8c6-29f47a9fe6bb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Door Iron Right.mesh.nasset/Door Iron Right Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ef1a98e1-e009-abe9-810e-525cdf6ac5a2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Amphora.mesh.nasset/Amphora Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "f1b9c214-95bf-746d-fb08-0e4451bb3776": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2130,6 +3701,32 @@
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "2540a91c-30ae-b233-e123-0790dc1d6711",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f2288016-2495-3b55-8fe7-c2fd79513933": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Prison Bars Broken.mesh.nasset/Prison Bars Broken.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f2c8f020-8ed1-e1aa-0baa-bfbb887d7e20": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Inkwell.mesh.nasset/Inkwell.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f45b3e6a-a30f-bf1c-55e2-7835b00e1afa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Book Red Deep.mesh.nasset/Book Red Deep Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2169,6 +3766,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f6bcceeb-4bdd-fe37-a7ec-dbb15baf72c9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Chest Closed.mesh.nasset/Chest Closed Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "f78f7eea-1ecb-e27c-c19d-c1df9a65743b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2192,6 +3801,13 @@
             "2ec0229b-eb5a-912f-11c1-50557519d898",
             "96cbc2cd-2938-7378-ce89-8be4cbaba51f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f9010fd6-7b3c-79a4-2b67-dc6c52a3ac25": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Wall Door Frame.mesh.nasset/Wall Door Frame.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "fa633a4a-56a9-d9e1-2f90-39faf5e3de05": {
@@ -2245,6 +3861,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "fc78e1ac-5c91-a5d5-aeb8-a0d883d4bc6a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Walls Stone 2.mesh.nasset/Cell Walls Stone 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fd7804d4-41e7-f311-c979-c6d6d07b0e61": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Cell Walls Wood Beam.mesh.nasset/Cell Walls Wood Beam.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "fdefcaea-83d5-1d3a-dfa4-dd32f5f23207": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2279,6 +3909,30 @@
         ],
         "dependencies": [
             "2ec0229b-eb5a-912f-11c1-50557519d898",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fef97fa4-28b2-027a-d7ea-c36e17baa685": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Ivy Leaf.mesh.nasset/Ivy Leaf Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ff7a84ea-853b-c9ac-6eb5-742d2f8e8b5e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Alchemedes.scene.nasset/Desk.mesh.nasset/Desk Dungeon Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b739972-4763-b69d-76b7-2cdad2ceda10",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
